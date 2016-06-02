@@ -1,4 +1,4 @@
-# My Application
+# Sentinel Versioning poc
 1. Clone the project
 2. Run npm install
 3. Start server (node .)
